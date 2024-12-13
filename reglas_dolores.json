@@ -1,0 +1,56 @@
+{
+    "pierna": {
+        "sientes la pierna?": {
+            "sí": "pierna fantasma",
+            "no": {
+                "sientes una coonstraccion": {
+                    "sí": "viene un bebe",
+                    "no": {}
+                }
+            }
+        }
+    },
+    "cabeza": {
+        "dolor punzante?": {
+            "sí": "cocazo",
+            "no": {
+                "dolor de un solo lado": {
+                    "sí": "cancer",
+                    "no": {
+                        "gallinazo?": {
+                            "sí": "ajua",
+                            "no": {
+                                "dolor intermitente?": {
+                                    "sí": "posible cerebro congelado",
+                                    "no": {
+                                        "dolor periferico andaluz?": {
+                                            "sí": "joder tio",
+                                            "no": {
+                                                "chill de cojones?": {
+                                                    "sí": "joder tio que chill",
+                                                    "no": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "dedo": {
+        "no siente la uña?": {
+            "sí": "pongase uñas",
+            "no": {}
+        }
+    },
+    "lengua": {
+        "siento pizcazon": {
+            "sí": "cancer de lengua",
+            "no": {}
+        }
+    }
+}
